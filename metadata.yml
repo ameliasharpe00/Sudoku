@@ -1,0 +1,12 @@
+---
+:id: 37558693
+:submitters:
+- :name: Amelia Sharpe
+  :email: amsharpe@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-05-13 03:44:17.515080000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-05-12 20:44:17.515080000 Z
+:status: processed
+:score: 50.0
