@@ -1,10 +1,3 @@
-/**********************************************************************
- * HW09: PROJECT SUDOKU
- **********************************************************************/
-
-Name: Amelia Sharpe
-
-/**********************************************************************
 My object oriented game consists of:
 1. SmallBox.java: SmallBox created an object which creates each of the 36 small boxes
 on the Sudoku Grid
